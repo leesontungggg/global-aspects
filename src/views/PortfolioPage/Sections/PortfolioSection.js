@@ -665,8 +665,6 @@ const useStyles = makeStyles(theme => ({
   },
   serviceRaised: {
     borderRadius: '24px',
-    boxShadow:
-      '0 -3px 24px 2px rgb(0 0 0 / 5%), 0 6px 30px 5px rgb(0 0 0 / 0%), 0 8px 10px -5px rgb(0 0 0 / 0%)'
   },
   salesforce_diagram_mobile: {
     display: 'flex',

@@ -301,7 +301,7 @@ export default function AboutSection () {
           <Button
             color='#4B0082'
             size='lg'
-            target='_blank'
+            href='/service'
             rel='noopener noreferrer'
             className={classes.purpleButton}
           >
