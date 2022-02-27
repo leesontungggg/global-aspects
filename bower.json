@@ -1,0 +1,25 @@
+{
+  "name": "global-aspects",
+  "homepage": "https://github.com/creativetimofficial/material-kit-react",
+  "authors": [
+    "TUNG"
+  ],
+  "description": "Global Aspects",
+  "main": "dist/index.js",
+  "keywords": [
+    "Global",
+    "Aspects",
+    "design",
+    "google",
+    "twitter"
+  ],
+  "license": "TUNG",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true
+}
