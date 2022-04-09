@@ -1,6 +1,6 @@
-Project Australian 
+Project Global Aspects
 
-This is the template of Australian Project
+This is the template of Global Aspects Project
 
 Developed by Tung.
 
@@ -11,4 +11,3 @@ How to use:
 2. 'Npm run start' to start the server for developing
 
 3. 'Npm run build' to build for deploy to Cpanel
-

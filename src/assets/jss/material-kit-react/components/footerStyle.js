@@ -28,7 +28,7 @@ const footerStyle = {
     display: "flex",
     zIndex: "2",
     position: "relative",
-    backgroundColor: "#51038b",
+    backgroundColor: "#21436e",
   },
   a: {
     color: primaryColor,

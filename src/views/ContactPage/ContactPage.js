@@ -7,8 +7,7 @@ import { makeStyles } from "@material-ui/core/styles";
 
 // core components
 import Footer from "components/Footer/Footer.js";
-import ContactFooter from 'components/ContactFooter/ContactFooter.js'
-
+import ContactFooter from "components/ContactFooter/ContactFooter.js";
 
 import { container, title } from "assets/jss/material-kit-react.js";
 
@@ -30,7 +29,7 @@ const useStyles = makeStyles((theme) => ({
     position: "relative",
     marginTop: "30px",
     minHeight: "32px",
-    color: "#4B0082",
+    color: "#21436E",
     textDecoration: "none",
     [theme.breakpoints.down("sm")]: {
       fontSize: "1rem",
@@ -64,18 +63,18 @@ const useStyles = makeStyles((theme) => ({
   },
 
   purpleButton: {
-    background: "#4B0082",
+    background: "#21436E",
     borderRadius: "50px",
     padding: "12px 30px",
   },
   yellowButton: {
-    background: "#FFBC42",
+    background: "#5B7B44",
     borderRadius: "50px",
     padding: "12px 30px",
   },
   yellowChip: {
-    color: "#FFBC42",
-    backgroundColor: "#FCA80F21",
+    color: "#5B7B44",
+    backgroundColor: "#5B7B4421",
     fontWeight: 900,
   },
   parallax_background: {

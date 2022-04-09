@@ -238,7 +238,7 @@ export default function Header(props) {
         href="/"
         alt="Global Aspects"
         className={classes.title_img}
-        src={require("assets/australian-digital/2020/12/350xl.png")}
+        src={require("assets/global-aspects/350x140.png")}
       ></img>
     </a>
   );
@@ -260,7 +260,7 @@ export default function Header(props) {
         </Hidden>
         <Hidden mdUp>
           <IconButton
-            color="#FFBC42"
+            color="#5B7B44"
             aria-label="open drawer"
             onClick={handleDrawerToggle}
           >
